@@ -1,7 +1,3 @@
-Here's a sample README content for your background color changer website made using React, Vite, and Tailwind CSS:
-
----
-
 # Background Color Changer
 
 This is a simple background color changer website built using **React**, **Vite**, and **Tailwind CSS**. It allows users to change the background color by selecting from various color options. This project demonstrates how to build an interactive UI using React with styling from Tailwind CSS.
